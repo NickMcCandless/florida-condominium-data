@@ -1,0 +1,56 @@
+# Florida condo age report: Florida DBPR condominium public records, checked 2026-11-07. Source: Miami Condo HQ (Eltherion, LLC).
+county,dbpr_region,condominiums_20_plus_units,units,condominiums_recorded_before_1996,units_recorded_before_1996,share_of_units
+Broward County,South Florida,2962,242972,2513,185206,0.7623
+Miami-Dade County,South Florida,2794,305268,1559,147899,0.4845
+Palm Beach County,South Florida,2184,175117,1912,140586,0.8028
+Pinellas County,Central Florida West,1387,100694,1181,81365,0.8080
+Collier County,Central Florida West,1281,84120,734,47291,0.5622
+Lee County,Central Florida West,1323,83601,681,39834,0.4765
+Sarasota County,Central Florida West,794,54057,577,39000,0.7215
+Brevard County,Central Florida East,451,32331,318,21470,0.6641
+Manatee County,Central Florida West,478,31646,315,20547,0.6493
+Orange County,Central Florida East,419,54265,220,19040,0.3509
+Volusia County,Central Florida East,359,25750,253,17574,0.6825
+Hillsborough County,Central Florida West,462,40442,291,17074,0.4222
+St. Lucie County,Central Florida East,146,15841,108,11920,0.7525
+Pasco County,Central Florida West,146,13139,127,11446,0.8711
+Martin County,Central Florida East,164,13070,144,11243,0.8602
+Charlotte County,Central Florida West,244,14278,133,8416,0.5894
+Seminole County,Central Florida East,140,14041,106,7421,0.5285
+Bay County,North Florida,179,18312,99,7276,0.3973
+Indian River County,Central Florida East,143,8785,118,7132,0.8118
+Okaloosa County,North Florida,167,12328,91,6621,0.5371
+St. Johns County,North Florida,152,13587,89,6234,0.4588
+Monroe County,Florida Keys,121,8127,95,6083,0.7485
+Duval County,North Florida,196,23570,83,5467,0.2319
+Polk County,Central Florida East,99,7496,76,4871,0.6498
+Escambia County,North Florida,118,8257,59,4188,0.5072
+Walton County,North Florida,134,9280,54,3459,0.3727
+Lake County,Central Florida East,46,4482,30,3416,0.7622
+Alachua County,North Florida,86,7680,28,2704,0.3521
+Osceola County,Central Florida East,86,13435,21,2077,0.1546
+Nassau County,North Florida,58,3696,37,2072,0.5606
+Marion County,North Florida,34,3431,22,1865,0.5436
+Okeechobee County,Central Florida East,15,1861,11,1764,0.9479
+Flagler County,North Florida,51,5064,16,1389,0.2743
+Citrus County,Central Florida West,28,1303,22,999,0.7667
+Leon County,North Florida,60,4497,15,864,0.1921
+Highlands County,Central Florida West,20,971,15,777,0.8002
+Hernando County,Central Florida West,10,825,8,773,0.9370
+Santa Rosa County,North Florida,21,1504,9,657,0.4368
+Clay County,North Florida,20,2021,11,411,0.2034
+Glades County,Central Florida West,4,309,4,309,1.0000
+DeSoto County,Central Florida West,7,602,4,302,0.5017
+Hardee County,Central Florida West,2,284,2,284,1.0000
+Hendry County,Central Florida West,4,548,2,169,0.3084
+Levy County,North Florida,5,180,4,143,0.7944
+Putnam County,North Florida,3,177,2,120,0.6780
+Sumter County,Central Florida West,7,550,1,104,0.1891
+Wakulla County,North Florida,3,82,2,52,0.6341
+Franklin County,North Florida,5,274,1,42,0.1533
+Columbia County,North Florida,1,25,1,25,1.0000
+Dixie County,North Florida,5,170,0,0,0.0000
+Gulf County,North Florida,2,96,0,0,0.0000
+Holmes County,North Florida,1,36,0,0,0.0000
+Taylor County,North Florida,3,136,0,0,0.0000
+Washington County,North Florida,1,25,0,0,0.0000

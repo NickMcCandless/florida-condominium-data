@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below. Cite the DOI for a fixed version, or the page for the latest data."
+type: dataset
+title: "South Florida Condominium Register (Miami-Dade, Broward and Palm Beach)"
+abstract: "7,940 condominiums with 20 or more units in Miami-Dade, Broward and Palm Beach counties, compiled by Miami Condo HQ from Florida DBPR condominium public records: association legal name, DBPR managing-entity and project numbers, unit count, declaration recorded date and address on file."
+authors:
+  - name: "Miami Condo HQ"
+    website: "https://miamicondohq.com"
+url: "https://miamicondohq.com/condo-associations"
+repository: "https://github.com/NickMcCandless/florida-condominium-data"
+doi: 10.5281/zenodo.23924754
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23924754
+    description: "Dated snapshot of the register CSV archived on Zenodo (deposited 2026-11-03)"
+date-released: "2026-10-26"
+license: CC-BY-4.0
+keywords:
+  - florida
+  - condominium
+  - condominium associations
+  - housing
+  - open data
+  - public records
+preferred-citation:
+  type: data
+  title: "South Florida Condominium Register (Miami-Dade, Broward and Palm Beach)"
+  authors:
+    - name: "Miami Condo HQ"
+      website: "https://miamicondohq.com"
+  publisher:
+    name: "Eltherion, LLC"
+  year: 2026
+  date-released: "2026-10-26"
+  url: "https://miamicondohq.com/condo-associations"
+  doi: 10.5281/zenodo.23924754
+  notes: "Compiled from Florida DBPR condominium public records (Condo_MD.csv and condo_PB.csv), checked October 26, 2026."
+references:
+  - type: report
+    title: "Florida condo age report 2026"
+    authors:
+      - name: "Miami Condo HQ"
+    publisher:
+      name: "Eltherion, LLC"
+    year: 2026
+    url: "https://miamicondohq.com/research/florida-condo-age-report"
+    notes: "From Florida DBPR condominium records checked 2026-11-07. Source of data/florida-condo-age-by-county.csv."
+  - type: report
+    title: "South Florida condo age report 2026"
+    authors:
+      - name: "Miami Condo HQ"
+    publisher:
+      name: "Eltherion, LLC"
+    year: 2026
+    url: "https://miamicondohq.com/research/south-florida-condo-age-report"
+    notes: "From Florida DBPR condominium records checked 2026-10-26."
